@@ -1,0 +1,21 @@
+{
+    "name": "Browser-Bash",
+    "description": "A CLI extension for your browser",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "cli.html",
+        "default_icon": {
+            "16": "action.png",
+            "32": "action.png",
+            "48": "action.png",
+            "128": "action.png"
+        }
+    },
+    "icons": {
+        "16": "action.png",
+        "32": "action.png", 
+        "48": "action.png",
+        "128": "action.png"
+    }
+}
